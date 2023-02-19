@@ -1,6 +1,6 @@
 # PatikaSQL
 ---
-* Patika.dev SQL eğitimi kapsamında yaptığım ödevlerin bulunduğu repo.
-* Dosya isimlerindeki ilk hane **ödev numarasını**, ikinci hane **task numarasını** ifade eder. Örnek: odev-3.1 = 3.Ödev, 1.Task.
+* Repository of the assignments I did within the scope of Patika.Dev SQL Training.
+* The first digit in the file names represents **assignment number**, the second digit represents **task number**. Example: odev-3.1 = 3.Assignment, 1.Task.
 
 www.patika.dev
